@@ -13,4 +13,3 @@ public class Inventory extends BaseEntity {
 
     private Integer quantity;
 }
-
